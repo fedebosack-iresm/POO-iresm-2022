@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./U3.POO/ejercicio_3.5"
+    ]
+}
